@@ -31,4 +31,4 @@ Identify the model with the highest predictive performance and recommend it for 
 
 
 ## A Snapshot of the code
-![Screenshot](Machine-Learning/screenshot.png)
+![Screenshot](screenshot.png)
