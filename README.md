@@ -1,5 +1,5 @@
 # Machine-Learning
-Churn Prediction Model by Zoleka Magagula
+Churn Prediction Model by **Zoleka Magagula**
 
 ## Objective
 The objective of this project was to develop a predictive classification model capable of accurately identifying target outcomes based on historical data. This involved preprocessing the dataset, training multiple machine learning models, and evaluating their performance to determine the most effective approach for solving the classification problem
