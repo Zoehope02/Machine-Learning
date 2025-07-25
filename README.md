@@ -26,3 +26,5 @@ Identify the model with the highest predictive performance and recommend it for 
 
 ## A Snapshot of the code
 ![Screenshot](screenshot.png)
+
+To acces the complete notebook refer to
